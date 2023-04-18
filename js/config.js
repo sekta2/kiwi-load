@@ -93,7 +93,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 5;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -102,7 +102,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Развлекайся!",
 "Спасибо что зашел к нам!",
-"Ты знал что изображения заднего плана с геймплея нашего сервера?"
+"Ты знал что изображения заднего плана с геймплея нашего сервера?",
+"Знаете ли вы, что убивая игрока в голову, можно получить больше монет?"
 ];
 
 /*Random message order?*/
