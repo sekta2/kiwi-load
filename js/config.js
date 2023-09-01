@@ -63,7 +63,23 @@ var l_bgImages = [
 	"backgrounds/images/bg11.jpg",
 	"backgrounds/images/bg12.jpg",
 	"backgrounds/images/bg13.jpg",
-	"backgrounds/images/bg14.jpg"
+	"backgrounds/images/bg14.jpg",
+	"backgrounds/images/bg15.jpg",
+	"backgrounds/images/bg16.jpg",
+	"backgrounds/images/bg17.jpg",
+	"backgrounds/images/bg18.jpg",
+	"backgrounds/images/bg19.jpg",
+	"backgrounds/images/bg20.jpg",
+	"backgrounds/images/bg21.jpg",
+	"backgrounds/images/bg22.jpg",
+	"backgrounds/images/bg23.jpg",
+	"backgrounds/images/bg24.jpg",
+	"backgrounds/images/bg25.jpg",
+	"backgrounds/images/bg26.jpg",
+	"backgrounds/images/bg27.jpg",
+	"backgrounds/images/bg28.jpg",
+	"backgrounds/images/bg29.jpg",
+	"backgrounds/images/bg30.jpg"
 ];
 
 /*Random background images order?*/
@@ -96,7 +112,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/atomic.ogg", name: "Atomic Heart"},
+	{youtube: "HOdsVMSoBg0", name: "Subway Surfers"},
+	{youtube: "3RmQTYLD398", name: "CCR - Fortunate Son"},
+	{youtube: "uk_wUT1CvWM", name: "Black Sabbath - Paranoid"},
 ];
 
 /*Random music order?*/
