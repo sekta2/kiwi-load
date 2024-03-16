@@ -60,26 +60,7 @@ var l_bgImages = [
 	"backgrounds/images/bg8.jpg",
 	"backgrounds/images/bg9.jpg",
 	"backgrounds/images/bg10.jpg",
-	"backgrounds/images/bg11.jpg",
-	"backgrounds/images/bg12.jpg",
-	"backgrounds/images/bg13.jpg",
-	"backgrounds/images/bg14.jpg",
-	"backgrounds/images/bg15.jpg",
-	"backgrounds/images/bg16.jpg",
-	"backgrounds/images/bg17.jpg",
-	"backgrounds/images/bg18.jpg",
-	"backgrounds/images/bg19.jpg",
-	"backgrounds/images/bg20.jpg",
-	"backgrounds/images/bg21.jpg",
-	"backgrounds/images/bg22.jpg",
-	"backgrounds/images/bg23.jpg",
-	"backgrounds/images/bg24.jpg",
-	"backgrounds/images/bg25.jpg",
-	"backgrounds/images/bg26.jpg",
-	"backgrounds/images/bg27.jpg",
-	"backgrounds/images/bg28.jpg",
-	"backgrounds/images/bg29.jpg",
-	"backgrounds/images/bg30.jpg"
+	"backgrounds/images/bg11.jpg"
 ];
 
 /*Random background images order?*/
@@ -129,10 +110,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Развлекайся!",
 "Спасибо что зашел к нам!",
 "Ты знал что изображения заднего плана с геймплея нашего сервера?",
-"Знаете ли вы, что убивая игрока в голову, можно получить больше монет?"
+"Веди себя уважительно к игрокам и админам сервера :)"
 ];
 
 /*Random message order?*/
