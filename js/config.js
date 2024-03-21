@@ -97,6 +97,7 @@ var l_musicPlaylist = [
 	{youtube: "3RmQTYLD398", name: "CCR - Fortunate Son"},
 	{youtube: "uk_wUT1CvWM", name: "Black Sabbath - Paranoid"},
 	{youtube: "cYoyw6LeVPs", name: "Escape From Tarkov - Countdown"},
+	{youtube: "xwAheN8OanY", name: "Escape From Tarkov - Dark Horizon"},
 ];
 
 /*Random music order?*/
